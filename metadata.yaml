@@ -1,0 +1,29 @@
+_repo: Mamma-s-Stories-about-Birds_24378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leathley, Mary Elizabeth Southwell Dudley
+    birthdate: 1818
+    deathdate: 1899
+    gutenberg_agent_id: '26458'
+    url: http://www.gutenberg.org/2009/agents/26458
+description: ''
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile literature'
+tableOfContents: The eagle -- The duck -- The quail -- The robin redbreast -- The
+  bullfinch -- The albatross -- The owl -- The goose -- The magpie -- The pheasant
+  -- The flamingo -- The swan -- The kestrel -- The vulture -- The parrot -- The lapwing.
+title: Mamma's Stories about Birds
+url: http://www.gutenberg.org/ebooks/24378
